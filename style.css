@@ -1,0 +1,33 @@
+* {
+
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+table {
+
+	display: block;
+	margin: 20px auto;
+	width: 200px;
+	height: 200px;
+}
+
+td {
+
+	width: 66px;
+	height: 66px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+#result {
+
+	display: block;
+	width: 200px;
+	height: 50px;
+	margin: 20px auto;
+	border: 2px solid red;
+	text-align: center;
+	line-height: 50px;
+}
